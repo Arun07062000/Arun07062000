@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Arun Yadav</h1>
 <h3 align="center">Results-driven and ambitious Data Scientist with a strong foundation in Python, machine learning, and deep learning. Skilled in data preprocessing, model development, and deploying end-to-end projects. Eager to contribute impactful solutions and innovation in a collaborative environment.</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Arun07062000/Arun07062000/blob/main/image.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun07062000&label=Profile%20views&color=0e75b6&style=flat" alt="arun07062000" /> </p>
 
