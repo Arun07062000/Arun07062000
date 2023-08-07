@@ -3,16 +3,20 @@
 <h1 align="center">Hi 👋, I'm Arun Yadav</h1>
 <h3 align="center">Results-driven and ambitious Data Scientist with a strong foundation in Python, machine learning, and deep learning. Skilled in data preprocessing, model development, and deploying end-to-end projects. Eager to contribute impactful solutions and innovation in a collaborative environment.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arun07062000&label=Profile%20views&color=0e75b6&style=flat" alt="arun07062000" /> </p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=arun07062000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=arun07062000&label=Profile%20views&color=0e75b6&style=flat" alt="arun07062000" />
+  </a>
+</p>
 
 ---
 
 - 🌱 I’m currently learning **Natural Language Processing**
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/ArunYadav](https://www.datascienceportfol.io/ArunYadav)
 - 💬 Ask me about **Machine Learning**
-- 📫 How to reach me **arun07062000@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hyIPWM1lXsPVpg98A0gwqGxcKlFyN0OX/view?usp=drive_link](https://drive.google.com/file/d/1hyIPWM1lXsPVpg98A0gwqGxcKlFyN0OX/view?usp=drive_link)
-- ⚡ Fun fact **I thrive on both data challenges and sports fields, infusing humor into every line of code and game I play. So, if you need a dose of laughter along with data insights, I've got you covered!**
+- 📫 How to reach me: **arun07062000@gmail.com**
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1hyIPWM1lXsPVpg98A0gwqGxcKlFyN0OX/view?usp=drive_link)
+- ⚡ Fun fact: **I thrive on both data challenges and sports fields, infusing humor into every line of code and game I play. So, if you need a dose of laughter along with data insights, I've got you covered!**
 
 ---
 
@@ -34,7 +38,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
-
 
 ---
 
