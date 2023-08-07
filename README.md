@@ -1,4 +1,4 @@
-[![MasterHead](https://www.manhattantimesnews.com/wp-content/uploads/2021/09/featurebrain.jpg)](https://www.datascienceportfol.io/ArunYadav)
+[![MasterHead](https://github.com/Arun07062000/Arun07062000/blob/main/featurebrain%20(1).jpg)](https://www.datascienceportfol.io/ArunYadav)
 <h1 align="center">Hi 👋, I'm Arun Yadav</h1>
 <h3 align="center">Results-driven and ambitious Data Scientist with a strong foundation in Python, machine learning, and deep learning. Skilled in data preprocessing, model development, and deploying end-to-end projects. Eager to contribute impactful solutions and innovation in a collaborative environment.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
